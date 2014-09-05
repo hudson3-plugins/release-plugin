@@ -13,7 +13,7 @@
   <name>Release Plugin</name>
   <version>2.3-h-1-SNAPSHOT</version>
   <description>Adds the ability to wrap your job with pre- and post- build steps which are only executed when a manual release build is triggered.</description>
-  <url>http://wiki.hudsonci.org/display/HUDSON/Release+Plugin</url>
+  <url>http://wiki.hudson-ci.org/display/HUDSON/Release+Plugin</url>
 
   <scm>
    <connection>scm:git:git://github.com/hudson3-plugins/release-plugin.git</connection>
